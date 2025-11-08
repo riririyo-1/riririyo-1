@@ -35,7 +35,7 @@
       alt="GitHub Stats"
     />
   </a>
-  
+  <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
       align="center" 
@@ -52,3 +52,13 @@
   />
 </p>
 
+---
+
+### 🏆 GitHub トロフィー
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=riririyo-1&theme=radical&no-bg=true" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
