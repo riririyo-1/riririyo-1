@@ -1,8 +1,10 @@
 ## Riyo
 
+よろしくお願いいたします。
+
 ---
 
-### 🛠️ 学習中の技術・使っているツール
+### 学習中・使っているツール
 <p align="left">
   <a href="https://developer.mozilla.org/ja/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -23,7 +25,7 @@
 
 ---
 
-### 📊 GitHubの統計
+### GitHubの統計
 <p align="center">
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
